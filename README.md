@@ -13,9 +13,9 @@ Although transitioning from one MacBook to another is always a great chance to g
 
 * **Charles Proxy** Great proxy for inspecting network requests. Comes with helpers for tracking SSL traffic, installs certificates for iOS simulators with a single click!<br>Link: [https://www.charlesproxy.com](https://www.charlesproxy.com)<br>Pricing: $50,- one time fee for a single license
 
-* **Cloak VPN** The VPN that turns on automatically when connecting to an untrusted Network. Work from any Starbucks with confidence ;). Comes with Mac and iOS apps<br>Link: [https://www.getcloak.com](https://www.getcloak.com)<br>Pricing: $99,- a month
+* **Cloak VPN** The VPN that turns on automatically when connecting to an untrusted Network. Work from any Starbucks with confidence ;). Comes with Mac and iOS apps<br>Link: [https://www.getcloak.com](https://www.getcloak.com)<br>Pricing: $9,99 a month
 
-* **Paintcode 3** As the name suggests, Paintcode turns your drawings into code. Works great with Swift, check out the "parametric drawings" feature<br>Link: [https://www.paintcodeapp.com](https://www.paintcodeapp.com)<br>Pricing: 105, - € one time fee
+* **Paintcode 3** As the name suggests, Paintcode turns your drawings into code. Works great with Swift, check out the "parametric drawings" feature<br>Link: [https://www.paintcodeapp.com](https://www.paintcodeapp.com)<br>Pricing: 105,- € one time fee
 
 * **Deploymate** "Deploymate helps you identify unavailable, deprecated and obsolete API usage in your Xcode projects". True story.<br>Link: [http://www.deploymateapp.com](http://www.deploymateapp.com)<br>Pricing: $19,99 one time fee
 
