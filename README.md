@@ -31,7 +31,7 @@ Although transitioning from one MacBook to another is always a great chance to g
 
 * **Paste** My clipboard history of choice. Nice UI!<br>Link: [http://pasteapp.me](http://pasteapp.me)<br>Pricing: $9,99
 
-* **Paws** "Paw is a full-featured HTTP client that lets you test and describe the APIs you build or consume. It has a beautiful native macOS interface to compose requests, inspect server responses, generate client code and export API definitions". Ture, and  I lofe the UI!<br>Link: [https://paw.cloud](https://paw.cloud)<br>Pricing: 49,99 € on time fee
+* **Paws** "Paw is a full-featured HTTP client that lets you test and describe the APIs you build or consume. It has a beautiful native macOS interface to compose requests, inspect server responses, generate client code and export API definitions". True, and  I love the UI!<br>Link: [https://paw.cloud](https://paw.cloud)<br>Pricing: 49,99 € on time fee
 
 * **Pocket** Bookmarking and reading list synched accross devices. Really shines when used with apps and browser extensions.<br>Link: [https://getpocket.com/](https://getpocket.com/)<br> Pricing: Free, go premium for 4,95 € a month
 
